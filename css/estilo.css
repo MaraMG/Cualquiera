@@ -1,7 +1,12 @@
 *{
   margin:0;
-  padding:0;
+  padding:5;
 }
+
+body {
+    background-image: url("https://image.freepik.com/vector-gratis/patron-sobre-instrumentos-musicales_1172-120.jpg");
+}
+
 body{
   background-color: bisque;
   color:   #3d3d5c;
@@ -42,15 +47,18 @@ iframe{
   text-align: center;
 }
 #banda{
-  text-align: center;
+  text-align: center
 }
 #clasico{
-text-align: center;
+text-align: center
 }
 
 footer {
-background-color:
-  padding:;
-  text-align: right;
-  font-size: 
+    position:fixed;
+    bottom: 0;
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: #3d3d5c;
+  width: 100%;
 }
