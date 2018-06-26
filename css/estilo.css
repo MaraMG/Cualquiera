@@ -3,12 +3,23 @@
   padding:0;
 }
 body{
-  background-color: teal;
-  color: white;
+  background-color: bisque;
+  color:   #3d3d5c;
+  font-family: 'Spirax', cursive;
 }
-li{
+
+header {
+    background-color: #a06e2c;
+    padding: 30px;
+    text-align: center;
+    font-size: 17px;
+    color:  #3d3d5c;
+  height: 15px;
+}
+/* li{
    list-style-type: none;
-}
+*/
+
 .panel{
   display: inline-block;
   border-radius: 10px;
@@ -19,4 +30,20 @@ iframe{
   width: 99%;
   height: 200px;
   resize: both;
+}
+.lista{
+  background-color: burlywood;
+  display: inline-block;
+  width: 40%;
+  border-radius: 05%;
+  
+}
+.titulo{
+  text-align: center;
+}
+#banda{
+  text-align: center;
+}
+#clasico{
+text-align: center;
 }
